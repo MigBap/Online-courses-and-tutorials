@@ -1,0 +1,171 @@
+---
+title: "Template.para.os.cursos.R"
+output: html_document
+---
+
+#TEMPLATE
+
+
+#EXERCÍCIO 1
+```{r}
+
+
+
+```
+
+
+#EXERCÍCIO 2
+```{r}
+
+
+
+```
+
+
+#EXERCÍCIO 3
+```{r}
+
+
+
+```
+
+
+#EXERCÍCIO 4
+```{r}
+
+
+
+```
+
+
+#EXERCÍCIO 5
+```{r}
+
+
+
+```
+
+
+#EXERCÍCIO 6
+```{r}
+
+
+
+```
+
+
+#EXERCÍCIO 7
+```{r}
+
+
+
+```
+
+
+#EXERCÍCIO 8
+```{r}
+
+
+
+```
+
+
+#EXERCÍCIO 9
+```{r}
+
+
+
+```
+
+
+#EXERCÍCIO 10
+```{r}
+
+
+
+```
+
+
+#EXERCÍCIO 11
+```{r}
+
+
+
+```
+
+
+#EXERCÍCIO 12
+```{r}
+
+
+
+```
+
+
+
+#EXERCÍCIO 13
+```{r}
+
+
+
+```
+
+
+#EXERCÍCIO 14
+```{r}
+
+
+
+```
+
+
+#EXERCÍCIO 15
+```{r}
+
+
+
+```
+
+
+#EXERCÍCIO 16
+```{r}
+
+
+
+```
+
+
+#EXERCÍCIO 17
+```{r}
+
+
+
+```
+
+
+#EXERCÍCIO 18
+```{r}
+
+
+
+```
+
+
+#EXERCÍCIO 19
+```{r}
+
+
+
+```
+
+
+#EXERCÍCIO 20
+```{r}
+
+
+
+```
+
+
+
+
